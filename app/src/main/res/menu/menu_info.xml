@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/all"
+        android:icon="@drawable/all"
+        android:title="All"/>
+    <item android:id="@+id/android"
+        android:title="android"
+        android:icon="@drawable/android_logo"/>
+
+    <item android:id="@+id/wep"
+        android:title="wep"
+        android:icon="@drawable/wep"/>
+
+    <item android:id="@+id/iOS"
+        android:title="iOS+"
+        android:icon="@drawable/ios"/>
+
+    <item android:id="@+id/backend"
+        android:title="backend"
+        android:icon="@drawable/database"/>
+
+    <item android:id="@+id/admin"
+        android:title="admin"
+        android:icon="@drawable/admin"/>
+
+
+</menu>
